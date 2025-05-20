@@ -29,5 +29,10 @@ cd fsociety
 sudo apt install -y python3 php curl wget git
 
 # Run installer
-chmod +x fsociety.sh
-./install.sh
+chmod +x Fsociety.sh
+./Fsociety.sh
+
+⚠️ Legal Disclaimer
+
+    This tool is provided strictly for educational purposes and legitimate penetration testing. Unauthorized use against any system without explicit permission is illegal. The developers assume no liability and are not responsible for any misuse or damage caused by this software.
+
